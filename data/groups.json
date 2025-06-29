@@ -1,0 +1,17 @@
+{
+  "120363420366770216@g.us": {
+    "jid": "120363420366770216@g.us",
+    "name": "",
+    "desc": "",
+    "settings": {
+      "welcome": true,
+      "goodbye": true,
+      "antilink": true,
+      "antispam": false,
+      "chatbot": true
+    },
+    "members": [],
+    "admins": [],
+    "joinDate": "2025-06-29T05:52:16.100Z"
+  }
+}
